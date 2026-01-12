@@ -1,7 +1,8 @@
 # Sagan Deep Singh
 
-**Sheridan CST (Dec 2025)** · Android (Kotlin/Compose) · .NET (ASP.NET Core/EF Core) · Ionic/Angular · CI/CD & DevOps
+Software Developer | Backend & Full-Stack
 
-- 🌐 Portfolio: [https://saganportfolio.site](https://saganportfolio.site)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/sagan-deep-singh/](https://www.linkedin.com/in/sagan-deep-singh/)  
-- ✉️ Contact: sagandeep348@gmail.com
+- Java • Spring Boot • .NET • Node.js • Angular • SQL
+- Portfolio: https://saganportfolio.site
+- GitHub: https://github.com/sin12559
+- Open to Internship / Junior roles
